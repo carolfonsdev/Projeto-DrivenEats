@@ -6,7 +6,7 @@ DrivenEats is a project developed as part of the Driven course, simulating a foo
 
 > 🌟 **First project built with JavaScript!**
 
-🔗 **Live Demo:** [driven-eats-nu.vercel.app](https://driven-eats-nu.vercel.app/)
+🔗 **Live Demo:** ([https://driven-eats-nu.vercel.app/](https://driven-eats-nu.vercel.app/))
 
 ---
 
